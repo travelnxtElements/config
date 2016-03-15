@@ -1,0 +1,72 @@
+{
+    "elements": [{
+        "name": "t-home-header",
+        "category": "General",
+        "displayName": "App header",
+        "location": "https://github.com/travelnxtElements/t-home-header"
+    }, {
+        "name": "t-app-footer",
+        "category": "General",
+        "displayName": "App footer",
+        "location": "https://github.com/travelnxtElements/t-app-footer"
+    }, {
+        "name": "t-address",
+        "category": "General",
+        "displayName": "Address form",
+        "location": "https://github.com/travelnxtElements/t-address"
+    },{
+        "name": "t-forgot-password",
+        "category": "General",
+        "displayName": "Forgot password flow",
+        "location": "https://github.com/travelnxtElements/t-forgot-password"
+    },{
+        "name": "t-sign-up",
+        "category": "General",
+        "displayName": "User Sign Up",
+        "location": "https://github.com/travelnxtElements/t-sign-up"
+    },{
+        "name": "t-sign-in",
+        "category": "General",
+        "displayName": "User Sign In",
+        "location": "https://github.com/travelnxtElements/t-sign-in"
+    },{
+        "name": "t-search-overlay",
+        "category": "General",
+        "displayName": "Interstetial",
+        "location": "https://github.com/travelnxtElements/t-search-overlay"
+    },{
+        "name": "t-starrating",
+        "category": "General",
+        "displayName": "Star Rating",
+        "location": "https://github.com/travelnxtElements/t-starrating"
+    },{
+        "name": "t-badge",
+        "category": "General",
+        "displayName": "Badge",
+        "location": "https://github.com/travelnxtElements/t-badge"
+    },{
+        "name": "t-result-item",
+        "category": "General",
+        "displayName": "Flight result item",
+        "location": "https://github.com/travelnxtElements/t-result-item"
+    },{
+        "name": "t-faredetails",
+        "category": "General",
+        "displayName": "Fare Details",
+        "location": "https://github.com/travelnxtElements/t-faredetails"
+    },{
+        "name": "t-creditcard",
+        "category": "General",
+        "displayName": "Credit card Details",
+        "location": "https://github.com/travelnxtElements/t-creditcard"
+    },{
+        "name": "t-hotel-result-item",
+        "category": "General",
+        "displayName": "Hotel result item",
+        "location": "https://github.com/travelnxtElements/t-hotel-result-item"
+    }],
+    "categories": [{
+        "name": "General",
+        "displayName": "General"
+    }]
+}
